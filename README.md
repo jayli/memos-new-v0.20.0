@@ -2,7 +2,7 @@
 
 > <https://github.com/usememos/memos/issues/2826>
 
-我改了源码，重新打了 docker 的镜像，一个是给 arm 架构 openwrt 用的，一个是在 Mac 上用的。使用对应平台的镜像解压成 tar 包后自己导入 docker 即可。
+我改了源码，重新打了 docker 的镜像，一个是给 arm 架构 openwrt 用的，一个是在 x86 平台上用的。使用对应平台的镜像解压成 tar 包后自己导入 docker 即可。
 
 ### 修改方法：
 
